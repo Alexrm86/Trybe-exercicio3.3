@@ -1,1 +1,1 @@
-Exerciciode posicionamento[D[D[D[D[D[D[D[D[D
+Exerciciode posicionamento
