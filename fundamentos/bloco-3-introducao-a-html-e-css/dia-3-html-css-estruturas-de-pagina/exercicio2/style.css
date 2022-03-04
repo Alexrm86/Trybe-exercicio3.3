@@ -1,0 +1,43 @@
+.impar{
+    color:green;
+    text-transform: uppercase;
+
+}
+.par{
+    background-color: yellow;
+}
+h1,h2, h3,h4{
+    color:red;
+}
+    li{
+    font-size: 20px;
+    font-style: italic;
+    font-weight: bold;
+}
+    #py{
+    color: blue;
+
+}
+    #java{
+   background-color: pink;
+
+}
+    #ja{
+
+    color :blue;
+}
+    #a1:hover{
+        color:orange;
+   }
+    #a2:hover{
+        color:green;
+    }
+    #a3:hover{
+        color:black;
+    }
+    #a4:hover{
+        color:yellow;
+    }
+    #a5:hover{
+        color:green;
+    }
